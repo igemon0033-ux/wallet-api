@@ -1,0 +1,1 @@
+# FastAPI Wallet REST API
